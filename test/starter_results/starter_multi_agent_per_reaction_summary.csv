@@ -1,0 +1,11 @@
+Imine,Nucleophile,best_ee,n_trials,hit_threshold,round_of_first_success,
+(E)-Iminium 103,N41,86.22336,8,FALSE,,4
+(E)-Iminium 114,N32,93.44796,1,TRUE,1,
+(E)-Iminium 121,N35,90.058105,3,TRUE,3,
+(E)-Iminium 130,N34,93.13131,8,TRUE,8,gen 1
+(E)-Iminium 138,N36,91.9656,2,TRUE,2,
+(E)-Iminium 61,N40,85.931206,8,FALSE,,3
+(E)-Iminium 72,N37,88.31592,8,FALSE,,"7, gen 3"
+(E)-Iminium 86,N41,97.65596,5,TRUE,5,
+(Z)-Iminium 10,N12,92.91358,2,TRUE,2,
+(Z)-Iminium 153,N36,53.39137,8,FALSE,,"gen 3, 8"
